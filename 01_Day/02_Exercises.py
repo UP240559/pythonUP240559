@@ -1,0 +1,7 @@
+print(type(9.8))
+print(type(3.14))
+print(type(4-4j))
+print(type(['Asabeneth','python','Finlad']))
+print(type('Camila Yaretzi Landaverde Garcia'))
+print(type('Landaverde Garcia'))
+print(type('Mexico'))
