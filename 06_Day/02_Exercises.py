@@ -10,7 +10,7 @@ animal_products = ('milk', 'eggs', 'cheese')
 #3
 food_stuff_tp = fruits + vegetables + animal_products
 print("Tupla de alimentos:", food_stuff_tp)
-#4
+#4 
 food_stuff_lt = list(food_stuff_tp)
 print("Lista de alimentos:", food_stuff_lt)
 #5
