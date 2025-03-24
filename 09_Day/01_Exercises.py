@@ -15,7 +15,7 @@ if your_age>my_age:
         print(f'Eres mayor que yo por {dif} año.')
 elif your_age<my_age:
     dif=your_age-my_age
-     if dif==1:
+    if dif==1:
         print(f'Soy mayor que tu por {dif} año.')
     else:
         print(f'Soy mayor que tu por {dif} año.')
